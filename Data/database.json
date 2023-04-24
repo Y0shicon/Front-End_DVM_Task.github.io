@@ -1,0 +1,74 @@
+[
+    {
+        "position": "Software Engineer",
+        "company": "Google Inc",
+        "location": "United States",
+        "nature": "Full-Time",
+        "description": "A Software Engineer is an IT professional who designs, develops and maintains computer software at a company. They use their creativity and technical skills and apply the principles of software engineering to help solve new and ongoing problems for an organization.",
+        "requirements" : ["Proven work experience as a Software Engineer or Software Developer", "Experience designing interactive applications", "Ability to develop software in Java, Ruby on Rails, C++ or other programming languages", "Excellent knowledge of relational databases, SQL and ORM technologies (JPA2, Hibernate)", "Experience developing web applications using at least one popular web framework (JSF, Wicket, GWT, Spring MVC)", "Experience with test-driven development", "BSc degree in Computer Science, Engineering or relevant field"]
+    },
+    {
+        "position": "Product Manager",
+        "company": "Facebook Inc",
+        "location": "Germany",
+        "nature": "Full-Time",
+        "description": "We are looking for an experienced Product Manager who is passionate about building products that customers love. You will join a dynamic and fast-paced environment and work with cross-functional teams to design, build and roll-out products that deliver the company’s vision and strategy.",
+        "requirements" : ["Proven work experience in product management or as an associate product manager", "Proven track record of managing all aspects of a successful product throughout its lifecycle", "Proven ability to develop product and marketing strategies and effectively communicate recommendations to executive management)", "Solid technical background with understanding and/or hands-on experience in software development and web technologies", "Strong problem solving skills and willingness to roll up one’s sleeves to get the job", "Skilled at working effectively with cross functional teams in a matrix organization", "MS/BS degree in Computer Science, Engineering or equivalent preferred"]
+    },
+    {
+        "position": "Clerk",
+        "company": "HDFC",
+        "location": "India",
+        "nature": "Part-Time",
+        "description": "An Office Clerk's responsibilities include answering phones, taking messages, handling mail and scheduling appointments. Other everyday duties include collecting information, faxing, scanning, making copies and data entry.",
+        "requirements" : ["Proven experience as office clerk or other clerical position", "Familiarity with office procedures and basic accounting principles", "Working knowledge of office devices and processes", "A fast typist with knowledge in stenography and taking dictations", "Very good knowledge of MS Office ", "Excellent communication skills", "Very good organizational and multi-tasking abilities", "High school diploma"]
+    },
+    {
+        "position": "Accountant",
+        "company": "Walmart",
+        "location": "Switzerland",
+        "nature": "Part-Time",
+        "description": "An Accountant helps businesses make critical financial decisions by collecting, tracking, and correcting the company's finances. They are responsible for financial audits, reconciling bank statements, and ensuring financial records are accurate throughout the year.",
+        "requirements" : ["Work experience as an Accountant", "Excellent knowledge of accounting regulations and procedures, including the Generally Accepted Accounting Principles (GAAP)", "Hands-on experience with accounting software like FreshBooks and QuickBooks", "Advanced MS Excel skills including Vlookups and pivot tables", "Strong attention to detail and good analytical skills", "BSc in Accounting, Finance or relevant degree", "Additional certification (CPA or CMA) is a plus"]
+    },
+    {
+        "position": "Graphic Designer",
+        "company": "Rockstar Games",
+        "location": "India",
+        "nature": "Full-Time",
+        "description": "The Graphic Designer job description includes the entire process of defining requirements, visualizing and creating graphics including illustrations, logos, layouts and photos. You’ll be the one to shape the visual aspects of websites, books, magazines, product packaging, exhibitions and more.",
+        "requirements" : ["Proven graphic designing experience", "A strong portfolio of illustrations or other graphics", "Familiarity with design software and technologies (such as InDesign, Illustrator, Dreamweaver, Photoshop)", "A keen eye for aesthetics and details", "Excellent communication skills", "Degree in Design, Fine Arts or related field is a plus"]
+    },
+    {
+        "position": "Teacher",
+        "company" : "Bits Pilani",
+        "location" : "Pakistan",
+        "nature" : "Part-Time",
+        "description" : "We are looking for a committed Teacher to complement our qualified workforce of educators. You will be responsible for preparing and implementing a full educational teaching plan according to the school’s requirements. It will be fundamental to provide knowledge and instruction to students while also helping them develop their personalities and skills.",
+        "requirements" : ["Proven experience as a teacher", "Thorough knowledge of teaching best practices and legal educational guidelines partnered with a willingness to follow the school’s policies and procedures ", "Excellent communicability and interpersonal skills", "Creative and energetic", "Strong moral values and discipline", "Knowledge of CPR", "Indian", "Degree in teaching or in a specialized subject with a certificate in education"]
+    },
+    {
+        "position": "School Nurse",
+        "company" : "Barbara Bush Elementary",
+        "location" : "Japan",
+        "nature" : "Full-Time",
+        "description" : "Your primary responsibility will be to provide health services to students when they are at school. For example, you’ll treat injuries and and mild to acute sicknesses, or support students with chronic illnesses. You’ll also help with preventive care by educating students on how to avoid communicable diseases and having proper hygiene.",
+        "requirements" : ["Provide basic healthcare to students in case of injury or acute illness", "Develop health plans for students with chronic illnesses and disabilities", "Educate students and staff on healthy habits, such as proper nutrition and hygiene ", "Detect health problems in early stages through regular screenings", "Write referrals for pediatricians and other health specialists", "Ensure compliance with national and local health laws"]
+    },
+    {
+        "position" : "K-Pop Music Producer",
+        "company" : "BlackPink",
+        "location" : "North Korea",
+        "nature" : "Part-Time",
+        "description" : "We are looking for a Music Producer to join our team and work with our recording studio, artists and other stakeholders to oversee the process of producing and releasing music. Music Producer responsibilities include overseeing budgets and expenses, working with multiple teams and coaching artists. Hail Hitler",
+        "requirements": ["Proven work experience as a Music Producer or similar role", "Musical talent and experience, typically gathered from past experiences as a musician", "Strong technical knowledge of music and recording", "The ability to operate studio equipment and use sound editing software", "Familiarity with the latest industry developments", "Relevant training and/or certifications as a Music Producer"]
+    },
+    {
+        "position" : "Butler",
+        "company" : "CCP",
+        "location" : "China",
+        "nature" : "Full-Time",
+        "description" : "Butler responsibilities include greeting and checking in guests, making dining and entertainment arrangements and keeping guest rooms and suites up to the hotel and guest standards.",
+        "requirements": ["Experience as a Butler or similar role in the hospitality industry", "Strong multi-tasking skills", "Ability to adapt to a fluid environment", "Ability to handle sensitive matters with efficiency and discretion", "Knowledge of food and wine pairings is a plus", "Associate’s or bachelor’s degree in hotel management"]
+    }
+]

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Job List</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css" />
+  </head>
+  <body>
+    <!-- This is the top part of the webapp -->
+    <div class="topPanel">
+      <!-- Navigation Bar -->
+      <header class="navbar">
+        <!-- Left of the nav bar -->
+        <div class="left">
+          <img class="logo" src="Assets/logo.png" alt="Error Loading image" />
+          <div>JobLelo</div>
+        </div>
+
+        <!-- Right of nav bar -->
+        <div class="right">
+          <!-- <ul class="headers">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Browse Jobs</a></li>
+                <li><a href="#">Contact us</a></li>
+                <li><a href="#">About Us</a></li>
+            </ul> -->
+          <div class="headers"><a href="#">Home</a></div>
+          <div class="headers"><a href="index.html">Browse Jobs</a></div>
+          <div class="headers"><a href="#">Contacts</a></div>
+          <div class="headers"><a href="#">About Us</a></div>
+        </div>
+      </header>
+      <!-- **End of navigation bar -->
+
+      <div class="titleText">
+        <div>Find Your Dream Job Here </div>
+        <div style="font-size: 4vw;"> 1M+ Satisfied Users </div>
+      </div>
+    </div>
+
+
+    <!-- This is the listing part of the webapp -->
+    <div>
+      <!-- Search bar -->
+      <div class="searchbar">
+        <input
+          class="w3-input w3-border w3-animate-input search"
+          id = "searchText"
+          type="text"
+          style="width: 30%"
+          placeholder="Search for position/location/company or Full State Name"
+          onkeyup= "searchFunction()"
+        />
+      </div>
+      <!-- End of Search Bar -->
+
+      <!-- Job Listing and Cards -->
+      <div id="StartOfListing">
+
+
+
+      </div>
+    </div>
+  </body>
+  <script src="script.js"></script>
+</html>
