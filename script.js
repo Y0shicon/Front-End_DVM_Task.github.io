@@ -75,12 +75,12 @@ function addCards(cardJSON, index) {
 
         <!-- Job Description -->
         <div class="jobDescription">
-          <div style = "font-size : 23px">Job Description</div>
+          <div style = "font-size : 26px">Job Description</div>
           ${cardJSON["description"]}
         <!--** End of Job Description **-->
       
   `;
-  let reqTemplate = ` <div style = "font-size : 23px; margin-top : 2%">Job Requirements</div>
+  let reqTemplate = ` <div style = "font-size : 26px; margin-top : 2%">Job Requirements</div>
   <ul class = "jobReq">`
   for (let i = 0; i<cardJSON["requirements"].length; i++){
     reqTemplate += `<li> ${cardJSON["requirements"][i]} </li>`
