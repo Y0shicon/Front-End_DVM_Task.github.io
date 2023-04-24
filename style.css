@@ -260,7 +260,7 @@ body{
 
     .card{
         display: flex;
-        flex-flow: column wrap;
+        flex-flow: column nowrap;
         height: 20%;
         width:80%
     }
